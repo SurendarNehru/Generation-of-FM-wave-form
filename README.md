@@ -46,9 +46,9 @@ plt.ylabel("Amplitude")
 plt.tight_layout()
 plt.show()
 ```
-Waveform
+# Waveform
 
  ![17458290857486067222005315885377](https://github.com/user-attachments/assets/1e1fe724-3638-4013-a6f5-60a98df960ce)
 
-Result
+# Result
 Sucessfully generated Frequency modulated wave for given specification
